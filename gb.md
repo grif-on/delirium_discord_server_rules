@@ -1,27 +1,81 @@
-𝙃𝙚𝙮 ! 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 ! 𝑯𝙤𝙥𝙚 𝙮𝙤𝙪 𝙬𝙞𝙡𝙡 𝙚𝙣𝙟𝙤𝙮 𝙮𝙤𝙪𝙧 𝙨𝙩𝙖𝙮 ! 𝘽𝙪𝙩 𝙛𝙞𝙧𝙨𝙩 𝙧𝙚𝙖𝙙 𝙤𝙪𝙧 𝙧𝙪𝙡𝙚𝙨 ! 
+# Hello and Welcome! 
+## Hope you will enjoy your stay! But first, read our rules!
 
-𝐆𝐞𝐧𝐞𝐫𝐚𝐥 𝐬𝐞𝐫𝐯𝐞𝐫 𝐫𝐮𝐥𝐞𝐬 
-    **1.1**  Inappropriate / sexually explicit / offensive nicknames are forbidden;
-    **1.2**  Inappropriate / sexually explicit / offensive profile avatars / backgrounds and status messages are forbidden;
-    **1.3**  Moderators reserve the right to change nicknames if necessary;
-    **1.4**  Moderators reserve the right to use their own discretion regardless of any rule;
-    **1.5**  Don't do stuff that violate [Discord Terms Of Service](https://discord.com/terms) / [Discord Community Guidelines](https://discord.com/guidelines).
 
-𝐓𝐞𝐱𝐭 𝐜𝐡𝐚𝐭 𝐫𝐮𝐥𝐞𝐬 
-    **2.1**  No self-moderation or asking to be granted moderator roles;
-    **2.2**  No @mentioning spam;
-    **2.3**  No publishing of personal information (including real names, addresses, emails, passwords, bank account and credit card information, etc.);
-    **2.4**  Personal attacks, witch hunting, harassment, sexism / racism and "hate speech" are prohibited;
-    **2.5**  No trolling and spamming.
 
-𝐕𝐨𝐢𝐜𝐞 𝐜𝐡𝐚𝐭 𝐫𝐮𝐥𝐞𝐬
-    **3.1**  No annoying, loud or high pitch noises.
-    **3.2**  Moderators reserve the right to disconnect, mute, deafen, or move members to and from voice channels if necessary.
+# General Server Rules
 
-𝐀𝐧𝐝 𝐝𝐨𝐧'𝐭 𝐅𝐨𝐫𝐠𝐞𝐭 ! 
-Have fun and make friends!
-@mention the moderators for support.
+**1.1** Empty, offensive, or obscene nicknames are prohibited.
+**1.2** Inappropriate, offensive, or obscene profile backgrounds and statuses are not allowed.
+**1.3** Moderators reserve the right to change user nicknames on the server.
+**1.4** Do not engage in any activity that violates [Discord Terms Of Service](https://discord.com/terms) / [Discord Community Guidelines](https://discord.com/guidelines).
+# Language of Communication
 
-NOTICE:
-You can request access to the <#638449433704661014> channel by DM'ing one of the staff members.
-*By requesting the NSFW role, you acknowledge that you are legally allowed to view such content in your country.*
+Our server is international, and for the convenience of our users, we have created some text and voice channels organized by language.
+This is not a strict rule; you are free to communicate in any language in any channel. However, we strongly encourage you to adhere to the language themes of the channels to maintain order and convenience for all users.
+Moderators reserve the right to delete messages to preserve organization or avoid confusion.
+# Text Chat Rules
+
+**2.1** Self-moderation or requesting a moderator role is prohibited.
+**2.2** Spamming mentions (@) or repetitive messages is not allowed.
+**2.3** Sharing personal information (including names, addresses, emails, passwords, bank account or credit card details, etc.) is strictly prohibited.
+**2.4** Personal attacks, harassment, trolling, sexism, racism, and hate speech are forbidden.
+**2.5** If a chat conversation becomes too personal or focuses on one topic for too long, we recommend creating a separate thread to avoid inconveniencing other users.
+# Voice Channel Rules
+
+**3.1** No disruptive, loud, or high-pitched noises.
+**3.2** Moderators have the right to mute, kick, or move users to/from voice channels.
+**3.3** When using soundboards, ensure the volume level is appropriate and does not exceed the average conversation volume.
+**3.4** This paragraph follows the same recommendations as outlined in paragraph 2.5.
+
+
+
+# Content Publishing Rules
+
+**4.1** Posting content depicting violence against real people or animals is prohibited.
+
+Exceptions to this rule include:
+* Posting documentary materials (e.g., news reports, scientific studies) with proper context.
+* Posting content listed in Rule 4.6 (art, cultural heritage).
+* Other exceptions may be considered by moderators based on the provided context and only with prior approval.
+
+Each case will be reviewed individually, ensuring ethical standards and community rules are upheld.
+
+**4.2** Content depicting mild violence and blood (e.g., cartoonish style, lack of realistic brutality) is allowed without restrictions.
+**4.3** Content containing excessive violence or more realistic depictions of brutality (harsher than described in Rule 4.2) is permitted only under the following conditions:
+
+* The content must be hidden behind a spoiler.
+* A content warning must be included to allow users to decide if they wish to view it.
+
+
+
+### Content Publishing Rules (continuation)
+
+**4.4** Content of an erotic nature is allowed under the same conditions as stated in Rule 4.3.
+**4.5** Pornographic content is only permitted in 🔞-marked channels, access to which must be requested from moderators.
+**4.6** Content classified as art (e.g., images of cultural heritage, paintings, ancient frescoes, sculptures) is allowed without restrictions applied to modern works.
+**4.7** Content containing elements of violence or erotica (including real) is allowed if used in an educational context and accompanied by appropriate explanations.
+
+Mandatory requirements:
+* Content with excessive violence or erotica must be hidden behind a spoiler.
+* A content warning must be included.
+
+*Example: using such materials in discussions on history, anatomy, or culture.*
+
+*Note: You can request access to 🔞-marked channels by contacting one of the server moderators. By requesting the NSFW role, you confirm that viewing such content is permitted under the laws of your country.*
+
+
+
+# Policy
+
+**5.1** Our server is international. By participating, you agree to communicate respectfully with others regardless of their race, gender, language, religious, or political views, even if they differ from your own.
+**5.2** Discussions on political topics are allowed, but we strongly recommend creating separate threads for such conversations. Moderators reserve the right to delete threads or individual messages if they violate the rules or are deemed provocative.
+**5.3** Justifications of extremism, terrorism, or Nazism, as well as manifestations of xenophobia, racism, or anti-Semitism, calls for violence, or advocating the violent overthrow of any constitutional system, are strictly prohibited.
+# Appealing Moderator Decisions
+
+Users have the right to request clarification from a moderator regarding the reasons for a decision and the grounds for applying certain measures.
+
+If you have questions or disagree with a moderator’s actions:
+* You may contact the moderator who made the decision to clarify which rules were violated.
+* If you disagree with their response or do not receive a satisfactory resolution, you may escalate the matter to the server administrators.
+* We strive for transparency and are committed to explaining our actions to maintain a fair and welcoming atmosphere on the server.

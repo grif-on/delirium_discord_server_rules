@@ -1,42 +1,87 @@
-:flag_gb: ***ANNOUNCEMENT ROLES***
-Welcome to our server! Please read the rules first: <#947115201436741662> 
+## Русский
 
-If you want to receive announcements in one of languages listed below or just identify your country then react with proper emoji:
+# Добро пожаловать в B52 Development Community
 
-===================
+**B52 Development Community** — это творческое сообщество для разработчиков, художников, музыкантов, писателей, дизайнеров и других людей, занимающихся творчеством.
 
-:flag_ru: ***РОЛИ ДЛЯ ОПОВЕЩЕНИЙ***
-Добро пожаловать на сервер! Пожалуйста, ознакомьтесь с правилами: <#947115241223913493> 
+Здесь можно показывать свои работы, общаться, обмениваться опытом, учиться, искать единомышленников и объединяться в команды для собственных проектов.
 
-Если вы хотите получать оповещения на одном из нижеперечисленных языков или просто обозначить свою страну - просто добавьте реакцию с изображением соответствующего флага:
+**B52 Development Community — это не одна команда или студия.** Внутри сообщества могут существовать отдельные авторы, проекты и творческие объединения.
 
-===================
+Одно из них — **B52 Development Team**, команда разработчиков игр, сформированная внутри сообщества и работающая под тем же руководством. Поэтому этот сервер одновременно является основным хабом B52 Development Team: здесь публикуются новости о наших играх, можно следить за их разработкой и связываться с разработчиками.
 
-:flag_pl: ***ROLE OGŁOSZENIOWE***
-Witaj na naszym serwerze! Prosimy wpierw zapoznać się z zasadami: <#947115959934664714> 
+Другие участники могут заниматься музыкой, рисунком, видео, DIY или любым другим творчеством — самостоятельно или совместно с другими участниками.
 
-Jeśli chcesz otrzymywać powiadomienia o ogłoszeniach w jednym z języków wymienionych niżej, lub po prostu chcesz pokazać z jakiego jesteś kraju, kliknij odpowiednią reakcję:
+**B52 Development Community также может поддерживать проекты и творческие объединения участников.** По согласованию с руководством такие проекты могут представляться как созданные при поддержке или в рамках B52 Development Community.
 
-===================
+---
 
-:flag_ua: ***РОЛІ ДЛЯ ОГОЛОШЕНЬ***
-Ласкаво просимо на сервер! Будь ласка, ознайомтесь із правилами: <#947115596796031076> 
+## English (UK)
 
-Якщо ви хочете отримувати оголошення однією з нижченаведених мов або просто позначити свою країну - додайте реакцію із зображенням відповідного прапора:
+# Welcome to B52 Development Community
 
-===================
+**B52 Development Community** is a creative community for developers, artists, musicians, writers, designers and other people involved in creative work.
 
-:flag_by: ***РОЛІ ДЛЯ АПАВЯШЧЭННЯ***
-Сардэчна запрашаем на сервер! Калі ласка, азнаёмцеся з правіламі: <#967730343920697364>
+Here you can share your work, socialise, exchange experience, learn, find like-minded people and form teams for your own projects.
 
-Калі вы жадаеце атрымліваць абвесткі на адной з ніжэйпералічаных моў або проста пазначыць сваю краіну - проста дадайце рэакцыю з выявай адпаведнага сцяга:
+**B52 Development Community is not a single team or studio.** Independent creators, projects and creative organisations can all exist within the community.
 
-===================
+One such group is **B52 Development Team**, a game development team formed within the community and operating under the same leadership. This server therefore also serves as the main hub for B52 Development Team: news about our games is published here, you can follow their development and get in touch with the developers.
 
-:flag_gb: English
-:flag_ru: Русский
-:flag_ua: Українська
-:flag_by: Беларуская
-:flag_pl: Polski
-:flag_de: Deutsche
-:flag_fr: Français
+Other members may be involved in music, art, video, DIY or any other form of creative work — either independently or together with other members.
+
+**B52 Development Community may also support projects and creative groups formed by its members.** With the approval of the community leadership, such projects may be presented as created with the support of, or as part of, B52 Development Community.
+
+---
+
+## Українська
+
+# Ласкаво просимо до B52 Development Community
+
+**B52 Development Community** — це творча спільнота для розробників, художників, музикантів, письменників, дизайнерів та інших людей, які займаються творчістю.
+
+Тут можна показувати свої роботи, спілкуватися, обмінюватися досвідом, навчатися, знаходити однодумців і об’єднуватися в команди для власних проєктів.
+
+**B52 Development Community — це не одна команда чи студія.** Усередині спільноти можуть існувати окремі автори, проєкти й творчі об’єднання.
+
+Одне з них — **B52 Development Team**, команда розробників ігор, сформована всередині спільноти та керована тим самим керівництвом. Тому цей сервер водночас є основним хабом B52 Development Team: тут публікуються новини про наші ігри, можна стежити за їхньою розробкою та зв’язуватися з розробниками.
+
+Інші учасники можуть займатися музикою, малюванням, відео, DIY або будь-якою іншою творчістю — самостійно чи разом з іншими учасниками.
+
+**B52 Development Community також може підтримувати проєкти й творчі об’єднання учасників.** За погодженням із керівництвом такі проєкти можуть представлятися як створені за підтримки або в межах B52 Development Community.
+
+---
+
+## Беларуская
+
+# Сардэчна запрашаем у B52 Development Community
+
+**B52 Development Community** — гэта творчая супольнасць для распрацоўшчыкаў, мастакоў, музыкаў, пісьменнікаў, дызайнераў і іншых людзей, якія займаюцца творчасцю.
+
+Тут можна паказваць свае працы, мець зносіны, абменьвацца досведам, вучыцца, знаходзіць аднадумцаў і аб’ядноўвацца ў каманды для ўласных праектаў.
+
+**B52 Development Community — гэта не адна каманда ці студыя.** Унутры супольнасці могуць існаваць асобныя аўтары, праекты і творчыя аб’яднанні.
+
+Адно з іх — **B52 Development Team**, каманда распрацоўшчыкаў гульняў, сфармаваная ўнутры супольнасці і якая працуе пад тым жа кіраўніцтвам. Таму гэты сервер адначасова з’яўляецца асноўным хабам B52 Development Team: тут публікуюцца навіны пра нашы гульні, можна сачыць за іх распрацоўкай і звязвацца з распрацоўшчыкамі.
+
+Іншыя ўдзельнікі могуць займацца музыкай, маляваннем, відэа, DIY або любой іншай творчасцю — самастойна ці разам з іншымі ўдзельнікамі.
+
+**B52 Development Community таксама можа падтрымліваць праекты і творчыя аб’яднанні ўдзельнікаў.** Па ўзгадненні з кіраўніцтвам такія праекты могуць прадстаўляцца як створаныя пры падтрымцы або ў межах B52 Development Community.
+
+---
+
+## Polski
+
+# Witamy w B52 Development Community
+
+**B52 Development Community** to społeczność twórcza dla programistów, artystów, muzyków, pisarzy, projektantów oraz innych osób zajmujących się twórczością.
+
+Można tutaj prezentować swoje prace, rozmawiać, wymieniać się doświadczeniem, uczyć się, znajdować osoby o podobnych zainteresowaniach oraz tworzyć zespoły do własnych projektów.
+
+**B52 Development Community nie jest jednym zespołem ani studiem.** W ramach społeczności mogą działać niezależni twórcy, projekty oraz grupy twórcze.
+
+Jedną z nich jest **B52 Development Team** — zespół zajmujący się tworzeniem gier, powstały w ramach społeczności i działający pod tym samym kierownictwem. Dlatego ten serwer jest jednocześnie głównym hubem B52 Development Team: publikujemy tutaj wiadomości dotyczące naszych gier, można śledzić ich rozwój oraz kontaktować się z twórcami.
+
+Pozostali członkowie mogą zajmować się muzyką, rysunkiem, materiałami wideo, DIY lub dowolną inną formą twórczości — samodzielnie albo wspólnie z innymi członkami.
+
+**B52 Development Community może również wspierać projekty i grupy twórcze tworzone przez jego członków.** Za zgodą kierownictwa takie projekty mogą być przedstawiane jako stworzone przy wsparciu B52 Development Community lub w jego ramach.

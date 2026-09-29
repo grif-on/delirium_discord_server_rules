@@ -1,4 +1,4 @@
-## English :flag_gb:
+## :flag_gb: English 
 
 # Welcome to B52 Development Community
 
@@ -16,7 +16,7 @@ Other members may be involved in music, art, video, DIY or any other form of cre
 
 ===================
 
-## Русский :flag_ru:
+## :flag_ru: Русский 
 
 # Добро пожаловать в B52 Development Community
 
@@ -34,7 +34,7 @@ Other members may be involved in music, art, video, DIY or any other form of cre
 
 ===================
 
-## Українська :flag_ua:
+## :flag_ua: Українська 
 
 # Ласкаво просимо до B52 Development Community
 
@@ -52,7 +52,7 @@ Other members may be involved in music, art, video, DIY or any other form of cre
 
 ===================
 
-## Беларуская :flag_by:
+## :flag_by: Беларуская 
 
 # Сардэчна запрашаем у B52 Development Community
 
@@ -70,7 +70,7 @@ Other members may be involved in music, art, video, DIY or any other form of cre
 
 ===================
 
-## Polski :flag_pl:
+## :flag_pl: Polski 
 
 # Witamy w B52 Development Community
 

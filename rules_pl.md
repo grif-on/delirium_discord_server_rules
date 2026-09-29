@@ -37,7 +37,7 @@ Jeżeli jednak taka sytuacja bezpośrednio dotyczy naszego serwera lub narusza j
 - Jeżeli treść NSFW została ukryta za spoilerem, należy obowiązkowo dodać ostrzeżenie dotyczące jej zawartości, aby użytkownicy mogli zdecydować, czy chcą ją otworzyć.
 - Jeżeli treść została opublikowana na odpowiednim kanale, ale zachodzi potrzeba wspomnienia o niej na innym, nieodpowiednim kanale, należy zamieścić link do wiadomości w kanale źródłowym.
 
-**3.4** Publikowanie pornograficznych lub erotycznych treści NSFW jest dozwolone wyłącznie na kanałach oznaczonych 🔞. Dostęp do kanałów oznaczonych 🔞 można uzyskać, wybierając rolę <@&1553744044549738527> w zakładce **„Kanały i role”**.
+**3.4** Publikowanie pornograficznych lub erotycznych treści NSFW jest dozwolone wyłącznie na kanałach oznaczonych 🔞. Dostęp do kanałów oznaczonych 🔞 można uzyskać, wybierając rolę <@&639461591343169556> w zakładce **„Kanały i role”**.
 **3.5** Podczas publikowania treści należy przestrzegać tematyki kanałów. Tematyka kanałów została opisana w przewodnik po serwerze.
 **3.6** Moderacja i administracja zastrzegają sobie prawo do usuwania wiadomości, które kwalifikują się jako **NSFW**, mogą wywoływać kontrowersje lub być niestosowne, nawet jeżeli same w sobie nie stanowią naruszenia zasad.
 
@@ -60,13 +60,13 @@ Definicja **NSFW** w kontekście zasad publikowania treści:
 # System kar za naruszenia
 Na naszym serwerze obowiązuje stopniowy system kar składający się z kilku poziomów. Wybór konkretnego środka zależy od charakteru naruszenia, jego wagi oraz okoliczności.
 Oficjalne ostrzeżenia obowiązują przez 2 tygodnie od momentu ich wydania. Po upływie tego okresu ostrzeżenie uważa się za wygasłe, o ile zasady nie stanowią inaczej.
-0. **Ostrzeżenie ustne**:
+1. **Ostrzeżenie ustne**:
 W przypadku drobnych naruszeń moderacja lub administracja może ograniczyć się do ostrzeżenia ustnego bez nakładania oficjalnej kary. Takie ostrzeżenie nie jest uznawane za **oficjalne** ostrzeżenie w ramach systemu kar.
-1. **Timeout**:
+2. **Timeout**:
 Timeout jest pierwszym **oficjalnym** ostrzeżeniem. Użytkownikowi tymczasowo ogranicza się możliwość interakcji z serwerem. Zazwyczaj Timeout jest nakładany na okres od kilku minut do 24 godzin, zależnie od okoliczności naruszenia.
-2. **Nagana** (<@&1468583381104197703>):
+3. **Nagana** (<@&1468583381104197703>):
 Nagana jest drugim **oficjalnym** ostrzeżeniem. Jest zapisywana na koncie użytkownika w postaci specjalnej roli i może jej towarzyszyć tymczasowe ograniczenie możliwości interakcji z serwerem (Timeout).
-3. **Ograniczenie komunikacji** (<@&962822879173546116>):
+4. **Ograniczenie komunikacji** (<@&962822879173546116>):
 Jeżeli użytkownik dopuści się kolejnego naruszenia po otrzymaniu dwóch **oficjalnych** ostrzeżeń, może zostać wobec niego zastosowane ograniczenie komunikacji.
 **Ograniczenie komunikacji** jest bezterminową formą ograniczenia interakcji z serwerem. Użytkownik zachowuje dostęp do serwera i może przeglądać dostępne mu kanały oraz czytać wiadomości, ale traci możliwość interakcji z serwerem.
 W szczególności użytkownik nie może:
@@ -78,7 +78,7 @@ W szczególności użytkownik nie może:
 - uczestniczyć w kanałach głosowych.
 
 Ograniczenie komunikacji obowiązuje bezterminowo i może zostać zniesione wyłącznie przez administrację po rozpatrzeniu odwołania. Więcej informacji o warunkach i procedurze odwoławczej znajduje się w sekcji **„Odwołanie od ograniczenia komunikacji”.**
-4. **Ban**:
+5. **Ban**:
 Ban jest najsurowszym środkiem i jest stosowany w przypadku poważnych naruszeń, celowego szkodzenia serwerowi, rajdów oraz innych sytuacji, w których dalsza obecność użytkownika na serwerze jest niedopuszczalna.
 Zbanowany użytkownik całkowicie traci dostęp do serwera.
 **Wyjątki**

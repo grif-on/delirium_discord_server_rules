@@ -37,7 +37,7 @@ If such a situation directly affects our server or violates its rules, moderator
 - If NSFW content is hidden behind a spoiler, you must include a content warning so that users can decide whether they wish to open it.
 - If the content has been posted in an appropriate channel but needs to be mentioned in another, unsuitable channel, provide a link to the original message instead.
 
-**3.4** Pornographic or erotic NSFW content may only be posted in channels marked 🔞. You can gain access to channels marked 🔞 by selecting the <@&1553744044549738527> role in the **“Channels & Roles”** tab.
+**3.4** Pornographic or erotic NSFW content may only be posted in channels marked 🔞. You can gain access to channels marked 🔞 by selecting the <@&639461591343169556> role in the **“Channels & Roles”** tab.
 **3.5** Follow the intended topics of channels when posting content. Channel topics are described in the Server Guide.
 **3.6** Moderators and administrators reserve the right to remove messages that qualify as **NSFW**, may provoke controversy or may otherwise be inappropriate, even where the content does not constitute a rule violation.
 
@@ -60,13 +60,13 @@ Definition of **NSFW** for the purposes of the content-posting rules:
 # Punishments for Rule Violations
 Our server uses a progressive punishment system consisting of several levels. The specific measure applied depends on the nature of the violation, its severity and the surrounding circumstances.
 Official warnings remain active for 2 weeks from the moment they are issued. Once this period expires, the warning is considered expired unless otherwise specified by the rules.
-0. **Verbal Warning**:
+1. **Verbal Warning**:
 For minor violations, moderators or administrators may issue only a verbal warning without applying an official punishment. A verbal warning does not count as an **official** warning within the punishment system.
-1. **Timeout**:
+2. **Timeout**:
 A Timeout is the first **official** warning. The user's ability to interact with the server is temporarily restricted. A Timeout will normally last from several minutes to 24 hours, depending on the circumstances of the violation.
-2. **Reprimand** (<@&1468583381104197703>):
+3. **Reprimand** (<@&1468583381104197703>):
 A Reprimand is the second **official** warning. It is recorded on the user through a dedicated role and may also be accompanied by a temporary restriction on the user's ability to interact with the server (a Timeout).
-3. **Communication Restriction** (<@&962822879173546116>):
+4. **Communication Restriction** (<@&962822879173546116>):
 If a user commits another violation after receiving two **official** warnings, a Communication Restriction may be imposed.
 A **Communication Restriction** is an indefinite restriction on interaction with the server. The user retains access to the server and may view channels available to them and read messages, but loses the ability to interact with the server.
 In particular, the user may not:
@@ -78,7 +78,7 @@ In particular, the user may not:
 - participate in voice channels.
 
 A Communication Restriction remains in force indefinitely and may only be removed by the administration following consideration of an appeal. For more information about the requirements and appeal procedure, see **“Appealing a Communication Restriction”.**
-4. **Ban**:
+5. **Ban**:
 A Ban is the most severe measure and is applied in cases of serious rule violations, deliberate attempts to harm the server, raids and other situations in which the user's continued presence on the server is considered unacceptable.
 A banned user completely loses access to the server.
 **Exceptions**
